@@ -1,7 +1,7 @@
 # Kaggle Berlin Tutorial
 
 ## Installation Notes
-This tutorial requires *NumPy*, *scikit-learn* and *IPython* with the IPython Notebook. If
+This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython Notebook. If
 you're not sure how to install these packages, we recommend the free [Anaconda 
 distribution](http://continuum.io/downloads).
 
