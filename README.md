@@ -1,5 +1,11 @@
 # Pycon UK Introductory Tutorial
 
+*Instructor: Ezzeri Esa*
+
+- email: <ezzeri.esa@gmail.com>
+- twitter: [@ezzeriesa](https://twitter.com/ezzeriesa)
+- github: [savarin](http://github.com/savarin)
+
 ## Installation Notes
 This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython Notebook. If
 you're not sure how to install these packages, we recommend the free [Anaconda 
