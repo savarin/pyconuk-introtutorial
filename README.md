@@ -1,4 +1,4 @@
-# Kaggle Berlin Introductory Tutorial
+# Pycon UK Introductory Tutorial
 
 ## Installation Notes
 This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython Notebook. If
