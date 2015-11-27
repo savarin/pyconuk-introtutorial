@@ -50,7 +50,7 @@ Time-permitting, we would cover the following additional materials.
 - [Section 2-1 - Support Vector Machines.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooks/Section%202-1%20-%20Support%20Vector%20Machines.ipynb)
 - [Section 2-2 - SVM with Parameter Tuning.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooks/Section%202-2%20-%20SVM%20with%20Parameter%20Tuning.ipynb)
 
-For TensorFlow, the following notebooks were recently added.
+For TensorFlow, the following notebooks were recently included.
 - [Section 3-1 - Deep Learning.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooks/Section%203-1%20-%20Deep%20Learning.ipynb)
 
 A [Kaggle account](https://www.kaggle.com/account/register) would be required for the
