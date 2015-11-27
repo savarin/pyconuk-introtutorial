@@ -1,9 +1,10 @@
 # Pycon UK Introductory Tutorial
 
 ## Installation Notes
-This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython Notebook. If
-you're not sure how to install these packages, we recommend the free [Anaconda 
-distribution](http://continuum.io/downloads).
+This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython Notebook. These can
+be installed with *pip* by typing the following in terminal:
+
+	pip install numpy pandas sklearn ipython
 
 We will be reviewing the materials with the IPython Notebook. You should be able to type
 	
@@ -48,6 +49,9 @@ Time-permitting, we would cover the following additional materials.
 - [Section 1-5 - Final Checks.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooks/Section%201-5%20-%20Final%20Checks.ipynb)
 - [Section 2-1 - Support Vector Machines.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooks/Section%202-1%20-%20Support%20Vector%20Machines.ipynb)
 - [Section 2-2 - SVM with Parameter Tuning.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooks/Section%202-2%20-%20SVM%20with%20Parameter%20Tuning.ipynb)
+
+For TensorFlow, the following notebooks were recently added.
+- [Section 3-1 - Deep Learning.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooks/Section%203-1%20-%20Deep%20Learning.ipynb)
 
 A [Kaggle account](https://www.kaggle.com/account/register) would be required for the
 purposes of making submissions and reviewing our performance on the leaderboard.
