@@ -60,4 +60,5 @@ purposes of making submissions and reviewing our performance on the leaderboard.
 ## Credits
 
 Special thanks to [amueller](https://github.com/amueller), [jakevdp](https://github.com/jakevdp), 
-and [ogrisel](https://github.com/ogrisel) for the excellent materials they've posted.
+[ogrisel](https://github.com/ogrisel) and [ilblackdragon](https://github.com/ilblackdragon) for the 
+excellent materials they've posted.
