@@ -1,6 +1,6 @@
 # Pycon UK Introductory Tutorial
 
-*For a more condensed version of this tutorial, please visit [github.com/savarin/python_for_ml](https://github.com/savarin/python_for_ml).*
+*This tutorial was delivered at PyCon UK 2014. For a more condensed version, please visit [github.com/savarin/python_for_ml](https://github.com/savarin/python_for_ml).*
 
 ## Installation Notes
 This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython Notebook. These can
